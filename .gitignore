@@ -31,3 +31,7 @@
 *.out
 *.app
 .vs/*
+
+# Debug
+CppCalculator/Debug/*
+Debug/*
