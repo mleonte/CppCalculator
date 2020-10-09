@@ -30,7 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio
 .vs/*
+*.aps
 
 # Debug
 CppCalculator/Debug/*
